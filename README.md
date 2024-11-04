@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @Chazzledazzle13
-- 👀 I’m interested in finding other analysts who are looking to learn, grow, and network together.
-- 🌱 I’m currently polishing my knowledge on SQL, Tableau, and R. These are skills that I think are well developed, 
-but I still would like to feel 110% confident in my abilities with these skills.
-- 💞️ I’m looking to collaborate on any and all projects that can help polish my abilities and make me a more enticing candidate for positions. 
-- 📫 How to reach me:
-Email: charlesmcgrawiv@gmail.com
-Linkedin: https://www.linkedin.com/in/charles-mcgraw-8142b0138/
+
+
+Hello, my name is Chaz and I am a data analyst with expertise in data analysis and reporting, dashboard and database design and query optimization. 
+• SQL data querying
+• Generating reports and performing ad-hoc analysis in SQL
+• Creating visualizations using both Tableau and PowerBI
+• Data storytelling to translate finding to meaningful insights
+
+## 📚 Projects
+Thanks for looking at my portfolio! This is still very bare bones as I am working on getting more and more stuff added.
+Click here to go to my portfolio.
+
+## 🔧 Tools
+• Language: SQL, VBA
+• Database: Google BigQuery, MySQL
+• Visualization: Power BI, Tableau
+
+## 💻 Connect With Me
+• Connect on LinkedIn
+• Connect on Slack
