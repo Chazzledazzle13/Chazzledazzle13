@@ -1,6 +1,6 @@
 
 
-Hello, my name is Chaz and I am a data analyst with expertise in data analysis and reporting, dashboard and database design and query optimization. 
+Hello, my name is Chaz and I am an analyst with expertise in data analysis and reporting, dashboard and database design and query optimization. 
 
 • SQL data querying
 
